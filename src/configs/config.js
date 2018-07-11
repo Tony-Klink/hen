@@ -1,0 +1,1 @@
+export const hnBasepath = 'https://hacker-news.firebaseio.com/v0/';
